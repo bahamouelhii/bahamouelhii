@@ -1,16 +1,12 @@
-## Hi there 👋
+# Salut, je suis Bahaeddine Mouelhi 👋
+💻 Développeur backend passionné, avec 4 ans d'expérience en IT.  
+🚀 Je me spécialise actuellement dans **Java**, **Spring Boot**, et **API REST**.  
+🎯 Objectif : Construire des applications robustes et scalables.
 
-<!--
-**bahamouelhii/bahamouelhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Compétences principales
+- **Langages** : Java, SQL
+- **Frameworks** : Spring Boot, Hibernate
+- **Outils** : Docker, Git, Maven
+- **Bases de données** : MySQL, PostgreSQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contactez-moi : bahaemouelhii@gmail.com(mailto:bahaemouelhii@gmail.com)
