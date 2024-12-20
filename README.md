@@ -9,4 +9,4 @@
 - **Outils** : Docker, Git, Maven
 - **Bases de données** : MySQL, PostgreSQL
 
-📫 Contactez-moi : bahaemouelhii@gmail.com(mailto:bahaemouelhii@gmail.com)
+📫 Contactez-moi : bahamouelhii@gmail.com
